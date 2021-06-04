@@ -1,0 +1,17 @@
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.csprojAssemblyReference.cache
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.ImageForm.resources
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.GenerateResource.cache
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfoInputs.cache
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfo.cs
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\Abeezer\source\repos\Steganography\Steganography\bin\Debug\netcoreapp3.1\Steganography.exe
+C:\Users\Abeezer\source\repos\Steganography\Steganography\bin\Debug\netcoreapp3.1\Steganography.deps.json
+C:\Users\Abeezer\source\repos\Steganography\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.json
+C:\Users\Abeezer\source\repos\Steganography\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.dev.json
+C:\Users\Abeezer\source\repos\Steganography\Steganography\bin\Debug\netcoreapp3.1\Steganography.dll
+C:\Users\Abeezer\source\repos\Steganography\Steganography\bin\Debug\netcoreapp3.1\Steganography.pdb
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.dll
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.pdb
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.genruntimeconfig.cache
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.Properties.Resources.resources
+C:\Users\Abeezer\source\repos\Steganography\Steganography\obj\Debug\netcoreapp3.1\Steganography.EmailForm.resources

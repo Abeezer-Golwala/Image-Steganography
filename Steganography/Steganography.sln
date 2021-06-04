@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steganography", "Steganography\Steganography.csproj", "{69D5D06E-1543-4E40-8F66-DB10692880AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D5D06E-1543-4E40-8F66-DB10692880AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D5D06E-1543-4E40-8F66-DB10692880AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D5D06E-1543-4E40-8F66-DB10692880AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D5D06E-1543-4E40-8F66-DB10692880AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {339907E4-F2B2-4DBF-AC71-0F10E1501538}
+	EndGlobalSection
+EndGlobal
